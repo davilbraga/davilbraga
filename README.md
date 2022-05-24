@@ -1,4 +1,4 @@
-### Hi there 👋
+### Aluno TI, Turma 31 IFFar-Câmpus São Borja 
 
 <!--
 **davilbraga/davilbraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
